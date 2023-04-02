@@ -13,7 +13,7 @@ export default function Parallax() {
             justifyContent: 'center',
           }}
         >
-          <h1 style={{ color: 'white' }}>SwimsuitUSA</h1>
+          <h1 style={{ color: 'white' }}>SwimsuitUS</h1>
         </div>
       </ParallaxBannerLayer>
       <ParallaxBannerLayer image={logo} speed={-20} />
