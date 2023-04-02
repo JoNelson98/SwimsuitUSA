@@ -18,7 +18,7 @@ function App() {
         <Grid minH="100vh">
           <WithSubnavigation />
           <Routes>
-            <Route path="/" element={<Home />} />
+            <Route path="/swimsuitusa/" element={<Home />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/about" element={<About />} />
             <Route path="/services" element={<Services />} />
