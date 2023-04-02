@@ -1,12 +1,14 @@
 {
   "files": {
     "main.css": "/swimsuitusa/static/css/main.91a90076.css",
-    "main.js": "/swimsuitusa/static/js/main.190cb0a4.js",
+    "main.js": "/swimsuitusa/static/js/main.64ad8de1.js",
+    "static/media/photo.jpg": "/swimsuitusa/static/media/photo.6c1e2a4ca37b6161eb09.jpg",
+    "static/media/ssusalogo.png": "/swimsuitusa/static/media/ssusalogo.4ecb8bd076e01d5cdb38.png",
     "index.html": "/swimsuitusa/index.html",
-    "main.190cb0a4.js.map": "/swimsuitusa/static/js/main.190cb0a4.js.map"
+    "main.64ad8de1.js.map": "/swimsuitusa/static/js/main.64ad8de1.js.map"
   },
   "entrypoints": [
     "static/css/main.91a90076.css",
-    "static/js/main.190cb0a4.js"
+    "static/js/main.64ad8de1.js"
   ]
 }
