@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/swimsuitusa/static/css/main.91a90076.css",
+    "main.js": "/swimsuitusa/static/js/main.190cb0a4.js",
+    "index.html": "/swimsuitusa/index.html",
+    "main.190cb0a4.js.map": "/swimsuitusa/static/js/main.190cb0a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91a90076.css",
+    "static/js/main.190cb0a4.js"
+  ]
+}
