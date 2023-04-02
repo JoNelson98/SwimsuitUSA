@@ -1,5 +1,6 @@
 import React from 'react';
 import { ParallaxBanner, ParallaxBannerLayer } from 'react-scroll-parallax';
+import logo from '../../Images/modelphotos/photo.jpg';
 
 export default function Parallax() {
   return (
@@ -15,7 +16,7 @@ export default function Parallax() {
           <h1 style={{ color: 'white' }}>SwimsuitUSA</h1>
         </div>
       </ParallaxBannerLayer>
-      <ParallaxBannerLayer image="/modelphotos/photo.jpg" speed={-20} />
+      <ParallaxBannerLayer image={logo} speed={-20} />
     </ParallaxBanner>
   );
 }
